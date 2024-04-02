@@ -1,0 +1,10 @@
+TODO:
+    - Que el MLP tenga distinta cantidad de nodos intermedios
+    - Que tenga distinta cantidad de nodos de salida (nose si ya estaba) (checkear)
+    - Unir 2 MLP como en el autoencoder
+    - En el espacio latente deben haber solo 2 nodos (la salida del encoder son 2 nodos)
+    - Mejoras: Momento, ADAM, y cosas de optimizacion que no vi creo
+    - IMPLEMENTAR ADAM
+    - No mandarle todo el dataset de una, ir de a poco probando hasta cuanto puedo. Cuantos datos estoy aprendiendo de manera perfecta o en un x% de error?
+    - Analizar cantidad de EPOCAS
+    

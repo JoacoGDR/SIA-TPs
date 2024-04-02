@@ -1,0 +1,64 @@
+{
+    "K": 4,
+    "objective": {
+        "red": 220,
+        "green": 136,
+        "blue": 179
+    },
+    "palette": [{
+        "red": 221,
+        "green": 155,
+        "blue": 90
+    },
+    {
+        "red": 110,
+        "green": 15,
+        "blue": 205
+    },
+    {
+        "red": 200,
+        "green": 133,
+        "blue": 129
+    },
+    {
+        "red": 79,
+        "green": 248,
+        "blue": 40
+    },
+    {
+        "red": 50,
+        "green": 180,
+        "blue": 60
+    },
+    {
+        "red": 190,
+        "green": 180,
+        "blue": 170
+    },
+    {
+        "red": 66,
+        "green": 252,
+        "blue": 237
+    },
+    {
+        "red": 162,
+        "green": 144,
+        "blue": 200
+    },
+    {
+        "red": 180,
+        "green": 230,
+        "blue": 100
+    },
+    {
+        "red": 100,
+        "green": 24,
+        "blue": 41
+    }
+    ],
+    "selection": 
+        {
+            "name": "Probabilistic Tourney",
+            "threshold": 0.5
+        }  
+}
